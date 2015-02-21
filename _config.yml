@@ -7,7 +7,7 @@ title:            What's Left
 tagline:          The Jekyll Butler
 url:              http://citizenspress.github.io/whatsleft/
 paginate:         1
-baseurl:          whatsleft/
+baseurl:          /whatsleft
 author:
   name:           CPress
   url:            https://twitter.com/leftnewsorg

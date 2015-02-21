@@ -1,40 +1,37 @@
 ---
 layout: post
-title: Introducing Poole
+title: 2015-02-21
 ---
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
 
------
+#For those in the trenches
 
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.
+Win for the labour movement in Canada, [1700 workers at Casino Rama](http://www.unifor.org/en/whats-new/press-room/casino-rama-workers-join-unifor) voted 70% to join Unifor. More than 50% of the whole bargaining unit voted yes. This is the biggest new local CAW/CEP/Unifor has seen in recent memory.
 
-There are currently two themes built on Poole:
+Yanis Varoufakis explains the difference between reading Marx and being a Marxist in the real world. Love him or find his leather jackets a turn-off, [How I became an erratic Marxist](http://www.theguardian.com/news/2015/feb/18/yanis-varoufakis-how-i-became-an-erratic-marxist) is a good Guardian long read. We just wonder if he was being ironic in the middle when he blames Marx for writing Marx.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Venezuela internal security services arrested a bunch of the usual suspects on account that they were [planning another coup](http://therealnews.com/t2/index.php?option=com_content&task=view&id=31&Itemid=74&jumival=13229) to overthrow the socialist government. Their main mistake was releasing [a signed and rather poorly written statement](http://venezuelanalysis.com/news/11223) outlining their plan.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+The revelations from the Snowden files keep coming like episodes of Serial. This time, the NSA and GCHQ has been caught [hacking the security of (ALL?) SIM cards](https://www.schneier.com/blog/archives/2015/02/nsagchq_hacks_s.html) in your cell phone and planting viruses into the software that runs your hard disk. The UK also admitted that it was[unlawfully monitoring communication](http://www.theguardian.com/uk-news/2015/feb/18/uk-admits-unlawfully-monitoring-legally-privileged-communications) between client and lawyer, which breaks more laws that we can count. When it comes to the State, it seem there is no place to hide your embarrassing high school pictures you cannot bring yourself to throw out. However, for the rest of your enemies, increasing security is always a good idea.
 
-### What's included
+#Reading headlines, but nothing else? Then you need to know
 
-Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it, includes the following:
+The EU rightwing is claiming victory after the Syriza "climbdown" over terms they would accept, but the ability for Greece to negotiate any concessions from smug [German conservatives](http://mobile.reuters.com/article/topNews/idUSKBN0LO0O620150220?irpc=932) and the IMF is a win. The concessions that Syriza got along with the four month extension means that they have some time to look at real alternatives and delaying what some are calling an inevitable Capital flight.
 
-* Complete Jekyll setup included (layouts, config, [404](/404.html), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+While American [multinationals are "unlinking" their Venezuelan operations](http://www.reuters.com/article/2015/02/17/us-venezuela-usa-companies-analysis-idUSKBN0LL0A920150217) socialists have highlighted that this will make it easier for Venezuelan unions and workers to assume ownership over the businesses in question. A plan to do so efficiently will most certainly allow for an improved economy.
 
-Additional features are available in individual themes.
+The UK representative on NATO is warning to "expect a Russian attack". However, this is likely just chest thumping after the admission that the West cannot compete with the rapid troop mobilisation capabilities of the Russians. More war spending is their goal. With the ramp-up of language on both sides with Russia [Victory Day](http://www.ft.com/intl/cms/s/0/4d020554-b8db-11e4-b8e6-00144feab7de.html) celebration spending up including Sacred War song ring tones and the West reverting to cold war bravado, [it does not look like negotiated peace](http://rogerannis.com/debaltseve-was-fatal-flaw-in-minsk-agreement-on-ukraine/) deals in Ukraine will stick.
 
-### Browser support
+#Canada
 
-Poole and it's themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
+On the home front, new polling indicates that while Canadians want more security (who doesn't?) they also want [more oversight of the state security](http://www.cknw.com/2015/02/19/new-poll-says-majority-support-new-anti-terror-bill-but-also-want-more-oversight/) apparatus.
 
-### Download
+The Federal Government [has Written Off $1 Billion in Student Debt](https://twitter.com/CFSFCEE/status/568779705341444096) Since 2011, but there is still a heck of a lot more out there.
 
-Poole is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/poole">GitHub repository</a> for downloads, bug reports, and features requests.
+What the Hell is Going on in New Brunswick? Well, Sean Craig [writing for Canadaland outlines](http://canadalandshow.com/article/what-hell-going-new-brunswick) the sacking of Irving's Moncton Times and Transcript editors. It seems that the Canadaland scoop on the scandal they are are calling \#GulchGate (or maybe \#SecretSalmon). Canadaland was in Fredericton, New Brunswick and it has lead to some light being cast on the [hermit province](http://canadalandshow.com/podcast/family-owns-new-brunswick).
 
-Thanks!
+In Ottawa, politicians who clearly see all the stupid when it comes to the "Victims of Communism - Canada a Land of Refuge" monument that is supposed to adorn the lawn of the Supreme Court [are finding every way of stopping it](http://www.ipolitics.ca/2015/02/20/memorial-to-the-victims-of-communism-becomes-multi-million-dollar-controversy/) except just calling it out for being ridiculous. After first supporting it, the NDP seem to have come to their senses and united with Jim Watson, Liberals a good old fashioned communists into a Popular Front against ahistorical [waste of space](http://ottawacitizen.com/news/local-news/victims-of-communism-memorial-land-worth-at-least-16m-ottawa-architect-says) and money. The group supporting the monstrosity is called "Tribute to Liberty" which is not supposed to be an ironic homage to Orwell.
+
+#On the RADAR
+
+Canada National (CN) rail is going to [lockout its workers on Monday](http://unifor.org/en/whats-new/press-room/cn-announces-lock-out-unifor-putting-safety-risk) after Unifor rejected arbitration. CN says it takes issue with a new Unifor "community fund" – along with safety upgrades and paying its workers fair wages. Some of the action playing out over Twitter. After accepting a deal with Canadian Pacific earlier in the week, it seems that CN is not in to playing the same game that CP is. A main issue, of course, is the federal government's insistence on stamping out collective bargaining and sticking it to workers. Follow and support [@Unifor_RailLine](https://twitter.com/Unifor_RailLine)

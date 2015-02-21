@@ -3,9 +3,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
+title:            What's Left
 tagline:          The Jekyll Butler
-url:              http://getpoole.com
+url:              http://citizenspress.github.io/whatsleft/
 paginate:         1
 baseurl:          /
 author:
